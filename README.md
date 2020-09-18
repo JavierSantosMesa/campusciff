@@ -8,5 +8,5 @@ Creamos el repositorio en github y lo clonamos
 
 Añadimos los comandos usados hasta ahora, los cuales han sido:
 
-1. ~~cd Documents/"Desarrollo de interfaces"~~(Para ir hasta el directorio donde clonaremos el repositorio)
+1. ```cd Documents/"Desarrollo de interfaces"```(Para ir hasta el directorio donde clonaremos el repositorio)
 2- 
