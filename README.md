@@ -22,4 +22,13 @@ Hacemos un commit con el mensaje "Commit inicial"
 ![Imagen3](https://user-images.githubusercontent.com/71442834/93573652-b0371800-f997-11ea-86b1-2e131db8c99f.PNG)
 
 Creamos un archivo txt
+
 ![Imagen4](https://user-images.githubusercontent.com/71442834/93790909-daa50180-fc33-11ea-9ab7-62dc04a67c12.PNG)
+
+Creamos la carpeta privada en el repositorio
+
+![Imagen5](https://user-images.githubusercontent.com/71442834/93791303-5901a380-fc34-11ea-970e-48ccbfe5d6e1.PNG)
+
+Realizamos los siguientes cambios en el archivo .gitignore para ignorar el archivo y la carpeta creados anteriormente
+
+![Imagen6](https://user-images.githubusercontent.com/71442834/93791993-37ed8280-fc35-11ea-9955-289be57c177a.PNG)
