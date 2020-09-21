@@ -20,3 +20,6 @@ Añadimos los comandos usados hasta ahora, los cuales han sido:
 Hacemos un commit con el mensaje "Commit inicial"
 
 ![Imagen3](https://user-images.githubusercontent.com/71442834/93573652-b0371800-f997-11ea-86b1-2e131db8c99f.PNG)
+
+Creamos un archivo txt
+![Imagen4](https://user-images.githubusercontent.com/71442834/93790909-daa50180-fc33-11ea-9ab7-62dc04a67c12.PNG)
