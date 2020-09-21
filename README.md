@@ -44,3 +44,31 @@ Creamos un tag 1.0
 Subimos los cambios al repositorio
 
 ![Imagen9](https://user-images.githubusercontent.com/71442834/93792830-530cc200-fc36-11ea-8a2d-5d1d16073d78.PNG)
+
+Cambiamos la foto de perfil de github
+
+![Imagen10](https://user-images.githubusercontent.com/71442834/93793639-5c4a5e80-fc37-11ea-9869-f2882709507c.PNG)
+
+Ponemos el doble factor de autenticacion en nuestra cuenta
+
+![Imagen11](https://user-images.githubusercontent.com/71442834/93793922-bd723200-fc37-11ea-8451-03f8a24a13a3.PNG)
+
+Seguimos a nuestros compañeros en github
+
+![Imagen12](https://user-images.githubusercontent.com/71442834/93795609-ec89a300-fc39-11ea-869f-88f5e0e80e2b.PNG)
+
+Seguimos su repositorio campusciff
+
+![Imagen13](https://user-images.githubusercontent.com/71442834/93796298-f069f500-fc3a-11ea-9322-0684d842a3f1.PNG)
+<html>
+ <tr>
+    <td>Celda 1</td>
+    <td>Celda 2</td>
+    <td>Celda 3</td>
+  </tr>
+  <tr>
+    <td>Celda 4</td>
+    <td>Celda 5</td>
+    <td>Celda 6</td>
+  </tr>
+</html>
