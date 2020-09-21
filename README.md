@@ -40,3 +40,7 @@ Creamos el archivo 1.txt
 Creamos un tag 1.0
 
 ![Imagen8](https://user-images.githubusercontent.com/71442834/93792620-0de89000-fc36-11ea-99d9-33a620386caf.PNG)
+
+Subimos los cambios al repositorio
+
+![Imagen9](https://user-images.githubusercontent.com/71442834/93792830-530cc200-fc36-11ea-8a2d-5d1d16073d78.PNG)
