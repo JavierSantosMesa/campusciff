@@ -61,6 +61,7 @@ Seguimos su repositorio campusciff
 
 ![Imagen13](https://user-images.githubusercontent.com/71442834/93796298-f069f500-fc3a-11ea-9322-0684d842a3f1.PNG)
 <html>
+<body>
  <tr>
     <td>Celda 1</td>
     <td>Celda 2</td>
@@ -71,4 +72,5 @@ Seguimos su repositorio campusciff
     <td>Celda 5</td>
     <td>Celda 6</td>
   </tr>
+</body>
 </html>
