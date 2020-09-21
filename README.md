@@ -32,3 +32,11 @@ Creamos la carpeta privada en el repositorio
 Realizamos los siguientes cambios en el archivo .gitignore para ignorar el archivo y la carpeta creados anteriormente
 
 ![Imagen6](https://user-images.githubusercontent.com/71442834/93791993-37ed8280-fc35-11ea-9955-289be57c177a.PNG)
+
+Creamos el archivo 1.txt
+
+![Imagen7](https://user-images.githubusercontent.com/71442834/93792386-c3ffaa00-fc35-11ea-98f6-a50b17f86896.PNG)
+
+Creamos un tag 1.0
+
+![Imagen8](https://user-images.githubusercontent.com/71442834/93792620-0de89000-fc36-11ea-99d9-33a620386caf.PNG)
